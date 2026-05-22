@@ -7,7 +7,9 @@ DURATION : 6 Weeks
 MENTOR : Neela Santhosh Kumar
 
 🎓 Student Performance Tracker using Machine Learning
+
 📌 Project Overview
+
 
 The Student Performance Tracker is a complete end-to-end Machine Learning project developed using Python and Streamlit to analyze and predict student academic performance. The project demonstrates the practical implementation of Data Science and Machine Learning concepts using a real-world educational dataset. The system is designed to help analyze various factors affecting student performance and predict student average scores using Machine Learning algorithms.
 
@@ -35,7 +37,10 @@ To build prediction models using Machine Learning algorithms
 To evaluate model performance using standard evaluation metrics
 To develop an interactive dashboard using Streamlit
 To gain practical knowledge in Data Science and Machine Learning
+
+
 ❓ Problem Statement
+
 
 Educational institutions often struggle to monitor and evaluate student academic performance efficiently. Manual analysis of student records becomes challenging as the amount of data increases. Identifying weak students and understanding factors affecting performance require intelligent systems that can analyze and predict student outcomes automatically.
 
